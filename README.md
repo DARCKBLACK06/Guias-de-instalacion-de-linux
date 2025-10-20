@@ -159,5 +159,5 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 Con esto terminamos la instalacion de ArchLinux en dual boot con windows para salir escribimos exit y escribimos "shutdown now" para apagar el equipo y poder retirar la usb.
 
 Video de instalacion de archlinux 
-![Instalacion3](https://www.youtube.com/watch?v=wNGiNTkbe68)
+https://www.youtube.com/watch?v=wNGiNTkbe68
 
